@@ -1,0 +1,5 @@
+{
+  "name": "Badda General Hospital",
+  "description": "A modern, professional hospital website for Badda General Hospital Pvt. Ltd. in Dhaka, Bangladesh.",
+  "requestFramePermissions": ["geolocation"]
+}
